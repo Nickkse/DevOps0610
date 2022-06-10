@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: nickse211/app:latest
+          tags: nickse211/test01:latest
