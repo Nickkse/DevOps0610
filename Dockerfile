@@ -12,4 +12,3 @@ CMD python3 flaskme.py
 
 LABEL Copyright="2022" version="1.3"  owner='Nick
 
-VOLUME [ "/app/logs" ]'
